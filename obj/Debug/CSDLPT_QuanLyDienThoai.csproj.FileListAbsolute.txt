@@ -1,0 +1,14 @@
+C:\Users\Bao Vu\Desktop\CSDLPT_QuanLyDienThoai\CSDLPT_QuanLyDienThoai\bin\Debug\CSDLPT_QuanLyDienThoai.exe.config
+C:\Users\Bao Vu\Desktop\CSDLPT_QuanLyDienThoai\CSDLPT_QuanLyDienThoai\bin\Debug\CSDLPT_QuanLyDienThoai.exe
+C:\Users\Bao Vu\Desktop\CSDLPT_QuanLyDienThoai\CSDLPT_QuanLyDienThoai\bin\Debug\CSDLPT_QuanLyDienThoai.pdb
+C:\Users\Bao Vu\Desktop\CSDLPT_QuanLyDienThoai\CSDLPT_QuanLyDienThoai\obj\Debug\CSDLPT_QuanLyDienThoai.csprojAssemblyReference.cache
+C:\Users\Bao Vu\Desktop\CSDLPT_QuanLyDienThoai\CSDLPT_QuanLyDienThoai\obj\Debug\CSDLPT_QuanLyDienThoai.Form1.resources
+C:\Users\Bao Vu\Desktop\CSDLPT_QuanLyDienThoai\CSDLPT_QuanLyDienThoai\obj\Debug\CSDLPT_QuanLyDienThoai.Properties.Resources.resources
+C:\Users\Bao Vu\Desktop\CSDLPT_QuanLyDienThoai\CSDLPT_QuanLyDienThoai\obj\Debug\CSDLPT_QuanLyDienThoai.csproj.GenerateResource.cache
+C:\Users\Bao Vu\Desktop\CSDLPT_QuanLyDienThoai\CSDLPT_QuanLyDienThoai\obj\Debug\CSDLPT_QuanLyDienThoai.csproj.CoreCompileInputs.cache
+C:\Users\Bao Vu\Desktop\CSDLPT_QuanLyDienThoai\CSDLPT_QuanLyDienThoai\obj\Debug\CSDLPT_QuanLyDienThoai.exe
+C:\Users\Bao Vu\Desktop\CSDLPT_QuanLyDienThoai\CSDLPT_QuanLyDienThoai\obj\Debug\CSDLPT_QuanLyDienThoai.pdb
+C:\Users\Bao Vu\Desktop\CSDLPT_QuanLyDienThoai\CSDLPT_QuanLyDienThoai\obj\Debug\CSDLPT_QuanLyDienThoai.frmNhanVien.resources
+C:\Users\Bao Vu\Desktop\CSDLPT_QuanLyDienThoai\CSDLPT_QuanLyDienThoai\obj\Debug\CSDLPT_QuanLyDienThoai.frmDienThoai.resources
+C:\Users\Bao Vu\Desktop\CSDLPT_QuanLyDienThoai\CSDLPT_QuanLyDienThoai\obj\Debug\CSDLPT_QuanLyDienThoai.frmTrangChu.resources
+C:\Users\Bao Vu\Desktop\CSDLPT_QuanLyDienThoai\CSDLPT_QuanLyDienThoai\obj\Debug\CSDLPT_QuanLyDienThoai.frmKhachHang.resources
